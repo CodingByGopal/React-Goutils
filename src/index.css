@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html {
+    font-family: "Quicksand", sans-serif;
+  }
+  p::-moz-selection,
+  p::-moz-selection,
+  h1::-moz-selection,
+  h2::-moz-selection,
+  span::-moz-selection,
+  li::-moz-selection,
+  a::-moz-selection,
+  label::-moz-selection,
+  tr::-moz-selection,
+  th::-moz-selection,
+  td::-moz-selection,
+  button::-moz-selection {
+    /* Code for Firefox */
+    color: #fff;
+    background: #3a2519;
+  }
+
+  p::selection,
+  h1::selection,
+  h2::selection,
+  span::selection,
+  li::selection,
+  a::selection,
+  label::selection,
+  tr::selection,
+  th::selection,
+  td::selection,
+  button::selection {
+    color: #fff;
+    background: #3a2519;
+  }
+}
+
+button::selection {
+  background-color: #fdf2e9;
+  color: #3a2519;
+}
+button::-moz-selection {
+  background-color: #fdf2e9;
+  color: #3a2519;
+}
+img::selection {
+  background-color: transparent;
+}
+img::-moz-selection {
+  background-color: transparent;
+}
+/* ///skeleton laoding shimmer animation/// */
+
+.skeleton-box-full {
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-box-full::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0,
+    rgba(255, 255, 255, 0.874) 20%,
+    rgba(255, 255, 255, 0.814) 60%,
+    rgba(255, 255, 255, 0)
+  );
+  animation: shimmer 3s infinite;
+  content: "";
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.scrollBarCustom::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+.scrollBarCustom::-webkit-scrollbar-track {
+  background: #fff; /* color of the tracking area */
+}
+
+.scrollBarCustom::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #eee; /* color of the scroll thumb */
+}
+
+/* animations */
+
+.section {
+  transition: all 0.8s;
+}
+.section--hidden {
+  opacity: 0;
+  transform: translateY(5rem);
+}
+
+.moveTopAnimationModal {
+  animation: moveInTop 0.2s ease-out 0.1s;
+  animation-fill-mode: backwards;
+  backface-visibility: hidden;
+}
+
+@keyframes moveInTop {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+
+.loading {
+  filter: blur(10px);
+  clip-path: inset(0);
+}
+.loaded {
+  filter: blur(0px);
+  transition: filter 0.5s linear;
+}

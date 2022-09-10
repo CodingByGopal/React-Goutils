@@ -66,7 +66,7 @@ Start the server
 
 # Hi, my name is Gopal ji! 👋
 
-![developer](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/developer-goutils.png)
+![developer](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-developer.png)
 
 ## 🚀 About Me
 

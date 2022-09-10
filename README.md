@@ -49,19 +49,18 @@ Start the server
 
 ## Preview
 
-![Hero](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/hero-goutils.png)
+![Hero](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-hero.png)
 
-![Tools](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/tools-goutils.png)
 
-![notes-1](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/without-notes-goutils.png)
 
-![Notes-2](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/with-notes-goutis.png)
+![notes-1](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-Create-Notes.png)
 
-![text-1](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/text-analyzer-1-goutils.png)
+![Notes-2](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-Create-Notes-with-notes.png)
 
-![text-2](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/text-analyzer-2-goutils.png)
+![text-1](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-Text-Analyzer.png)
 
-![table](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/table-generator-goutils.png)
+
+![table](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/049af0fa0034bfab676ff6337db1e90c8ede2d06/Goutils-New-Table.png)
 
 ![error](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/3cb2f10b4cd9158d98c2d7b5167064d9dd0910b2/error-page-goutils.png)
 

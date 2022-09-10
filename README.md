@@ -4,7 +4,7 @@ GoUtils is a multifunctional utility web app that helps you to create and save n
 
 ## Development And Optimizations
 
-GoUtils has been developed using React.js and Tailwind css. To give website a morden look , react top loading bar ,skeleton loading and lazy image loading has been used. For providing smooth animations and lazy image loading, Intersection observer Api has been used.
+GoUtils has been developed using React.js and Tailwind CSS. To give the website a modern look, react top loading bar, skeleton loading and lazy image loading have been used. For providing smooth animations and lazy image loading, Intersection observer API has been used.
 
 ## Resource
 
@@ -71,7 +71,7 @@ Start the server
 
 ## 🚀 About Me
 
-I'm a front-end web developer. I'm the developer of GoUtils Website.
+I'm a front-end web developer. I'm the developer of the GoUtils Website.
 
 ## 🛠 Skills
 

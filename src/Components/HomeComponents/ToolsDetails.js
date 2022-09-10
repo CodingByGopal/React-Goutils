@@ -12,7 +12,7 @@ const ToolsDetails = ({ sectionRef }) => {
       img: notesImg,
       altText: "Notes",
       heading: "Create Notes Tool",
-      description: `Don't you have a copy to write on? Are you studying online and want to take notes in a parallel tab? Here is the complete solution. This free online tool allows you to create notes in a web browser. No sign-up is required.`,
+      description: `Don't you have a copy to write on? Are you studying online and want to take notes in a parallel tab? Here is the complete solution. This free online tool allows you to create notes in a web browser without sign-up .`,
       path: "/create-notes",
     },
     {

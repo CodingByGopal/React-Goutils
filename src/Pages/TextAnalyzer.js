@@ -15,7 +15,7 @@ const TextAnalyzer = ({ setProgress }) => {
       <Card>
         <PageHeader
           title="Text Analyzer"
-          text="GoUtils provide text analyzer utility which allows you to manipulate your text the way you want. For example you can change your text to uppercase , lowercase , counts number of words, number of characters with and without space. One of the key feature is to remove extra unwanted spaces in between words, which can be very helpful in formatting your text document. You can also capitalize first letter of your word, capitalize first letter of your word after full stop ,even capitalize every word in your sentence too, which can be very time saving . It supports copy to clipboard hence you don't have to worry about selecting and copying your text. Just press copy to clipboard."
+          text="GoUtils provide a text analyzer utility that allows you to manipulate your text the way you want. For example, you can change your text to uppercase, or lowercase and counts the number of words, and the number of characters with and without space. One of the key features is to remove extra unwanted spaces between words, which can be very helpful in formatting your text document. You can also capitalize the first letter of your word, capitalize the first letter of your word after a full stop, or even capitalize every word in your sentence too, which can be very time-saving. It supports copy to clipboard hence you don't have to worry about selecting and copying your text. Just press copy to clipboard."
         />
         <span className=" mt-10 block"></span>
         <TextDataHandler />

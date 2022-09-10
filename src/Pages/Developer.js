@@ -62,14 +62,14 @@ const Developer = ({ setProgress }) => {
                 Hello
               </h1>
               <p className="    md:text-lg text-base md:mb-10 mb-5">
-                My name is Gopal Ji, I'm front-end web developer. I created
-                GoUtils to help students and professional who are working on
+                My name is Gopal Ji, I'm a front-end web developer. I created
+                GoUtils to help students and professionals who are working on
                 projects and assignments and struggling in create notes online
-                while learning or formatting and analysis of text also in
-                multiplication table. GoUtils provide complete solution for
-                such problems and it's absolutely free hence no login or sign up
-                require to use. If you have any further query, get in touch with
-                me on these social links.
+                while learning or formatting and analysis of text also in the
+                multiplication table. GoUtils provide a complete solution for
+                such problems and it's absolutely free hence no login or sign-up
+                required to use. If you have any further queries, get in touch
+                with me on these social links.
               </p>
 
               <div className="  flex gap-7 pb-6 md:justify-start justify-evenly ">

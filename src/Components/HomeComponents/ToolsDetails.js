@@ -12,31 +12,28 @@ const ToolsDetails = ({ sectionRef }) => {
       img: notesImg,
       altText: "Notes",
       heading: "Create Notes Tool",
-      description: `  Don't you have copy to write on? Are you studying online and want to
-      takes notes in parallel tab? Here is the complete solution. This
-      free online tool allows you to create notes in a web browser. No
-      sign up required.`,
+      description: `Don't you have a copy to write on? Are you studying online and want to take notes in a parallel tab? Here is the complete solution. This free online tool allows you to create notes in a web browser. No sign-up is required.`,
       path: "/create-notes",
     },
     {
       img: textImg,
       altText: "Text Analyzer Tool",
       heading: "Text Analyzer Tool",
-      description: ` Text analyzer provides you multiple options for your text analysis and formattig. For example : change your text to uppercase , lowercase , counts number of words, number of characters with and without space and so on.`,
+      description: ` Text analyzer provides you with multiple options for your text analysis and formatting. For example: change your text to uppercase, or lowercase, counts the number of words, number of characters with and without space, and so on.`,
       path: "/text-analyzer",
     },
     {
       img: tableImg,
       altText: "Multiplication Table Tool",
       heading: "Multiplication Table Tool",
-      description: `  Are you stuck in multiplication table? You feel that Table of 13, Table of 17, Table of 19 or any table is complicated?. GoUtils provide multiplication table generator. Just type the number in box.`,
+      description: `  Are you stuck in a multiplication table? Do you feel that Table of 13, Table of 17, Table of 19, or any table is complicated?. GoUtils provide a multiplication table generator. Just type the number in the box.`,
       path: "/table-generator",
     },
   ];
   return (
     <div ref={sectionRef} className=" mt-16 ">
       <h1 className=" md:text-start text-center lg:mb-8 mb-4 lg:text-4xl text-2xl font-bold  ">
-        GoUtils Porvide Three Demanding Tools
+        GoUtils Provide Three Demanding Tools
       </h1>
 
       <div className="   flex  gap-4   xl:flex-row flex-col justify-center items-center ">

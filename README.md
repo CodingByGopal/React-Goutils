@@ -1,4 +1,4 @@
-# GoUtils : An Online Create Notes , Text Analyzer And Multiplication Table Generator Tool
+# GoUtils: An Online Create Notes, Text Analyzer, And Multiplication Table Generator Tool
 
 GoUtils is a multifunctional utility web app that helps you to create and save notes in your browser while working online, Helps in analyzing and formatting your text by manipulating it the way you want, and generates multiplication tables of any number. These tools have been designed to help students and professionals in their daily life to make their work easy.
 
